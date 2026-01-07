@@ -34,6 +34,7 @@
 #         print(line)
 
 """ 正儿八经 """
+# 运行前可以将目录中 poem.txt 删除，程序会自动重建
 with open("./poem.txt", "w", encoding="utf-8") as f_poem:
     # f_poem.write("我欲乘风归去，\n又恐琼楼玉宇，\n高处不胜寒，\n")
     f_poem.write("我欲乘风归去，\n")
