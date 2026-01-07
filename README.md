@@ -43,9 +43,7 @@ In this section, I am working through the 100 exercises from [Python 100 Example
 for instance:  
 例如：  
 
-<img width="3775" height="1092" alt="image" src="https://github.com/user-attachments/assets/be9a71c2-202a-4d0b-bdf3-85417c0f2ede" />
-
-
+<img width="3775" height="1092" alt="image" src="https://github.com/user-attachments/assets/be9a71c2-202a-4d0b-bdf3-85417c0f2ede" />  
 
 Feel free to explore the solutions, and I encourage others to improve or discuss the solutions with me.  
 欢迎大家一起探索解决方案，并鼓励大家提供改进意见或与我讨论。
