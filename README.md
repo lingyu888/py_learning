@@ -3,6 +3,8 @@
 Welcome to my personal repository where I document my **Python** learning journey. I welcome any suggestions or corrections from fellow learners!  
 本仓库主要记录个人学习**Python**的历程，欢迎各位指正！
 
+VS Code | Python 3.10.11
+
 ## Current Learning Progress | 当前学习进展
 
 - **Mastering Python Basics**: I'm currently focusing on mastering Python's basic syntax.  
