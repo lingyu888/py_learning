@@ -35,11 +35,14 @@ In this section, I am working through the 100 exercises from [菜鸟一百题](h
    题目描述  
 2. The solution code  
    求解代码
-4. Some exercises will include my personal thoughts and reflections on the solution at the end  
+3. Some exercises will include my personal thoughts and reflections on the solution at the end  
    部分题目会在末尾引入我的个人思考和对解决方案的反思
 
 Feel free to explore the solutions, and I encourage others to improve or discuss the solutions with me.  
 我欢迎大家一起探索解决方案，并鼓励大家提供改进意见或与我讨论。
 
-Feel free to explore the repository, share insights, or join me on this exciting journey of learning!  
-随时欢迎大家浏览我的仓库、分享见解，或者和我一起踏上这段激动人心的学习之旅！
+Feel free to explore the repository and share insights, or join me on this exciting journey of learning! The repository contains two main folders:  
+随时欢迎大家浏览我的仓库、分享见解，或者和我一起踏上这段激动人心的学习之旅！仓库包含两个主要文件夹：
+
+- `py_learning`: Contains the content from [Bilibili Uploader: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/)
+- `python_100_examples`: Contains the exercises from Demo1 to Demo100, from [菜鸟100题](https://www.runoob.com/python/python-exercise-example1.html)  
