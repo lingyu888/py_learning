@@ -3,7 +3,7 @@
 Welcome to my personal repository where I document my **Python** learning journey. I welcome any suggestions or corrections from fellow learners!  
 本仓库主要记录个人学习**Python**的历程，欢迎各位指正！
 
-VS Code | Python 3.10.11
+Windows | VS Code | Python 3.10.11
 
 ## Current Learning Progress | 当前学习进展
 
@@ -15,8 +15,31 @@ VS Code | Python 3.10.11
 
 ## Learning Resources | 学习资源
 
-- **Main Reference**: My primary learning resource is [Bilibili Uploader: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/), where I follow tutorials and concepts related to Python.  
-  **主要参考**：我的主要学习资源是[B站up主: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/)，我在这里跟随教程学习Python相关的概念。
+- **Main Reference 1**: [Bilibili Uploader: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/), where I follow tutorials and concepts related to Python.  
+  **主要参考 1**：[B站up主: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/)，我在这里跟随教程学习Python相关的概念。
+
+- **Main Reference 2**: [Python 100 Examples](https://www.runoob.com/python/python-exercise-example1.html), where I will practice Python syntax through real-world applications, preparing for future LeetCode challenges.  
+  **主要参考 2**：[菜鸟一百题](https://www.runoob.com/python/python-exercise-example1.html)，在这里，我会通过实际应用来练习Python语法，为后续刷LeetCode做准备。
+
+## Status Update | 状态更新
+
+I have completed all the tutorials from [林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/), and now I am working on the [菜鸟一百题](https://www.runoob.com/python/python-exercise-example1.html). **[Continuous Update]**  
+我已经学完了[林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/)的内容，接下来我会做[菜鸟100题](https://www.runoob.com/python/python-exercise-example1.html)【持续更新中】。
+
+### Demo1 ~ Demo100 | 题目与求解代码
+
+In this section, I am working through the 100 exercises from [菜鸟一百题](https://www.runoob.com/python/python-exercise-example1.html). Each exercise includes:   
+在本部分，我正在做[菜鸟一百题](https://www.runoob.com/python/python-exercise-example1.html)的100个练习。每道题包括：
+
+1. The problem statement  
+   题目描述  
+2. The solution code  
+   求解代码
+4. Some exercises will include my personal thoughts and reflections on the solution at the end  
+   部分题目会在末尾引入我的个人思考和对解决方案的反思
+
+Feel free to explore the solutions, and I encourage others to improve or discuss the solutions with me.  
+我欢迎大家一起探索解决方案，并鼓励大家提供改进意见或与我讨论。
 
 Feel free to explore the repository, share insights, or join me on this exciting journey of learning!  
 随时欢迎大家浏览我的仓库、分享见解，或者和我一起踏上这段激动人心的学习之旅！
