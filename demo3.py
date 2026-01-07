@@ -14,21 +14,21 @@
 # 默认为 r
 # 如果不加encoding="utf-8"，会乱码
 
-# f_data = open("./data_poetry.txt", "r", encoding="utf-8")
+# f_data = open("./poetry.txt", "r", encoding="utf-8")
 # content = f_data.read()
 # print(content)
 
 # f_data.close()
 
-# with open("./data_poetry.txt", "r", encoding="utf-8") as f_data:
+# with open("./poetry.txt", "r", encoding="utf-8") as f_data:
 #     content = f_data.read()
 #     print(content)
 
-# with open("./data_poetry.txt", "r", encoding="utf-8") as f_data:
+# with open("./poetry.txt", "r", encoding="utf-8") as f_data:
 #     print(f_data.readline())
 #     print(f_data.readline())
 
-# with open("./data_poetry.txt", "r", encoding="utf-8") as f_data:
+# with open("./poetry.txt", "r", encoding="utf-8") as f_data:
 #     lines = f_data.readlines()
 #     for line in lines:
 #         print(line)
