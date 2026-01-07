@@ -13,8 +13,8 @@ Welcome to my personal repository where I document my **Python** learning journe
 
 ## Learning Resources | 学习资源
 
-- **Main Reference**: My primary learning resource is [Bilibili Uploader: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/), where I follow tutorials and concepts related to Python and Reinforcement Learning.  
-  **主要参考**：我的主要学习资源是[B站up主: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/)，我在这里跟随教程学习Python和强化学习相关的概念。
+- **Main Reference**: My primary learning resource is [Bilibili Uploader: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/), where I follow tutorials and concepts related to Python.  
+  **主要参考**：我的主要学习资源是[B站up主: 林粒粒呀](https://www.bilibili.com/video/BV1Jgf6YvE8e/)，我在这里跟随教程学习Python相关的概念。
 
 Feel free to explore the repository, share insights, or join me on this exciting journey of learning!  
 随时欢迎大家浏览我的仓库、分享见解，或者和我一起踏上这段激动人心的学习之旅！
