@@ -29,7 +29,7 @@ Feel free to explore the solutions, improve them, or discuss them with me!
 - **Main Reference 2**: [Python 100 Examples](https://www.runoob.com/python/python-exercise-example1.html), where I practice Python syntax through real-world applications, preparing for future LeetCode challenges.  
   **主要参考 2**：[菜鸟一百题](https://www.runoob.com/python/python-exercise-example1.html)，通过实际应用来练习 Python 语法，为未来的 LeetCode 挑战做准备。
 
-## Completed Tasks | 已完成事项
+## Completed Tasks | 已完成项
 
 - **Bilibili Uploader: 林粒粒呀**: I completed all tutorials from 林粒粒呀 in about 3 hours. I was able to get a solid understanding of the basics.  
   **林粒粒呀**：用了大约三个小时学完了所有教程，基本掌握了 Python 的基础内容。
@@ -37,7 +37,7 @@ Feel free to explore the solutions, improve them, or discuss them with me!
 - **Python 100 Examples**: I completed all 100 exercises in 5 days, with a mix of learning and entertainment. The exercises were helpful in practicing Python syntax and preparing for future challenges.  
   **菜鸟一百题**：在学习和娱乐之余，断断续续用了五天完成了所有 100 题。这些练习有助于巩固 Python 语法，并为后续的挑战做好准备。
 
-## To-Do List | TODO项
+## To-Do List | 待办项
 
 1. **Organize "Mathematical Principles of Reinforcement Learning" Word notes and convert them into .md format**  
    **整理《强化学习的数学原理》的 Word 笔记，并转换成 .md 格式**  
@@ -45,7 +45,7 @@ Feel free to explore the solutions, improve them, or discuss them with me!
 2. **Learn and practice reinforcement learning through the book "Hands-on Learning of Reinforcement Learning," and update progress in the "reinforcement_learning" folder**  
    **通过《动手学强化学习》这本书学习强化学习并进行实践，并在 "reinforcement_learning" 文件夹中更新进展**  
 
-3. Solve LeetCode problems to strengthen algorithm skills and improve Python programming, and update progress in the "leetcode_learning" folder  
+3. **Solve LeetCode problems to strengthen algorithm skills and improve Python programming, and update progress in the "leetcode_learning" folder**  
    **刷 LeetCode 解决算法题，提升算法能力和 Python 编程技巧，并在 "leetcode_learning" 文件夹中更新进展**
 
 Feel free to explore the repository and share insights, or join me on this exciting journey of learning! The repository contains two main folders:  
